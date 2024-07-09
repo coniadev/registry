@@ -22,7 +22,7 @@
         "conia/development": "^1.1.1",
         "dealerdirect/phpcodesniffer-composer-installer": "^1",
         "ernst/coverlyzer": "^0.1.1",
-        "phpunit/phpunit": "^10",
+        "phpunit/phpunit": "^10 || ^11",
         "vimeo/psalm": "^5.7"
     },
     "autoload": {
